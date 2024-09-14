@@ -1,4 +1,4 @@
-Here's a cool and engaging version of your GitHub README with some emojis:
+
 
 # 🌐 ZkElect: Revolutionizing Democratic Elections with Blockchain and Zero-Knowledge Proofs
 
